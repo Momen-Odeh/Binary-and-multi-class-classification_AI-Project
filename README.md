@@ -12,4 +12,4 @@ Features:
 ## Example:
 ![nooraldeenabushehadeh github io_Binary-and-multi-class-classification_AI-Project_](https://github.com/NoorAldeenAbuShehadeh/Binary-and-multi-class-classification_AI-Project/assets/102482887/db8ddd84-21fd-43de-9624-9dbf136f377d)
 
-Visit this link to try it 🔥: https://nooraldeenabushehadeh.github.io/Binary-and-multi-class-classification_AI-Project/
+Visit this link to try it 🔥: https://momen-odeh.github.io/Binary-and-multi-class-classification_AI-Project/
